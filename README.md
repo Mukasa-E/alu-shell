@@ -1,2 +1,2 @@
-#Shell Basics Project
-This repository contains basic shell scripts that perform various system operations.
+#shell basics
+This is a file to show some basics about shell
